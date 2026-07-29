@@ -1,6 +1,6 @@
-# 🎮 Binary Game
-
 <div align="center">
+
+# 🎮 Binary Game
 
 ### بازی آموزشی تبدیل اعداد ده‌دهی به باینری با React Native و Expo
 
