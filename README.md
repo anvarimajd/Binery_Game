@@ -413,12 +413,6 @@ npm install
 
 <div align="center">
 
-# 👨‍💻 توسعه‌دهنده
-
-## Mahdi Mirbagheri
-
-**React Native Developer**
-
 ⭐ اگر این پروژه برای شما مفید بود، لطفاً آن را **Star** کنید.
 
 ساخته شده با ❤️ توسط **React Native + Expo**
